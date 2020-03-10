@@ -1,0 +1,21 @@
+.button-nxt {
+  background-color: rgb(57, 46, 155);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px 30px;
+  font-size: 12px;
+  font-weight: 700;
+  color: white;
+  border: 0;
+  border-radius: 8px;
+  position: relative;
+  // margin-left: 400px;
+  margin-top: 70px;
+  float: right;
+
+  display:flex;
+  justify-content: flex-end;
+  outline: 2px deeppink dashed;
+
+}

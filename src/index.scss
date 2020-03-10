@@ -1,0 +1,17 @@
+@import "style/vars";
+@import "style/button-nxt.scss";
+@import "style/forms-style.scss";
+@import "style/header.scss";
+@import "style/input-style.scss";
+@import "style/vars.scss";
+@import "style/label-style";
+
+* {
+  box-sizing: border-box;
+  background-color: rgb(182, 203, 216);
+  // display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
